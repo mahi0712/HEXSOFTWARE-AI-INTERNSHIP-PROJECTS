@@ -1,0 +1,3 @@
+# No external dependencies required.
+# This chatbot uses only Python's built-in libraries (re, random).
+# Tested on Python 3.8+
